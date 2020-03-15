@@ -2,7 +2,7 @@ Git.txt
 
 username - DavidDabar
 email	 - pain808tzp@gmial.com
-password - daviddabar808tzp
+password - Daviddabar808tzp
 
 step 1:	Git Download
 step 2:	Git Installion
@@ -17,7 +17,7 @@ first time (New Repository)
 			git init
 			git add
 			git config --global user.email "useremail"
-			git config --global username "username"
+			git config --global user.name "username"
 
 			git commit -m "first commit"
 			git remote add origin https://github.com/DavidDabar/Sample.git
@@ -25,7 +25,7 @@ first time (New Repository)
 
 (Old Repository For Exiting Project)
 			
-			git add,
+			git add .
 			git commit -m "second commit"
 			git push
 
