@@ -2,7 +2,7 @@ Git.txt
 
 username - DavidDabar
 email	 - pain808tzp@gmial.com
-password - Daviddabar808tzp
+password - ********
 
 step 1:	Git Download
 step 2:	Git Installion
